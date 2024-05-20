@@ -1,0 +1,6 @@
+@SurveyApplicationCleanArch_HostAddress = http://localhost:5120
+
+GET {{SurveyApplicationCleanArch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
