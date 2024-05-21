@@ -1,6 +1,6 @@
-﻿namespace WebApi.Models.Request
+﻿namespace WebApi.Models.Request;
+
+public class SettingsRequest
 {
-    public class SettingsRequest
-    {
-    }
+
 }

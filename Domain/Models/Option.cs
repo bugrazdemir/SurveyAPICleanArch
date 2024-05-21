@@ -1,6 +1,6 @@
 ﻿namespace Domain.Models
 {
-    public class Option
+    public class Option:BaseModel
     {
         public string Type { get; set; }
         public string Description { get; set; }
